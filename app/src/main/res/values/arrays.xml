@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes_title">
+        <item>ListView - SimpleAdapter</item>
+        <item>ListView - 自定义Adapter</item>
+    </string-array>
+    <string-array name="classes_name">
+        <item>SampleAdapterActivity</item>
+        <item>CustomizeAdapterActivity</item>
+    </string-array>
+</resources>
