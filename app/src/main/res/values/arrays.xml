@@ -3,9 +3,11 @@
     <string-array name="classes_title">
         <item>ListView - SimpleAdapter</item>
         <item>ListView - 自定义Adapter</item>
+        <item>allTest</item>
     </string-array>
     <string-array name="classes_name">
         <item>SampleAdapterActivity</item>
         <item>CustomizeAdapterActivity</item>
+        <item>AllTest</item>
     </string-array>
 </resources>

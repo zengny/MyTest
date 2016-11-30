@@ -17,6 +17,7 @@
         </activity>
         <activity android:name=".listview_activities.SampleAdapterActivity"/>
         <activity android:name=".listview_activities.CustomizeAdapterActivity"/>
+        <activity android:name=".listview_activities.AllTest"/>
     </application>
 
 </manifest>
