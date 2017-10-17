@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyTest</string>
+    <string name="aaa">MyTest</string>
+    <string name="b">MyTest</string>
+    <string name="aaca">MyTest</string>
+    <string name="aacsa">MyTest</string>
+    <string name="aada">MyTest</string>
+    <string name="aafa">MyTest</string>
 </resources>
